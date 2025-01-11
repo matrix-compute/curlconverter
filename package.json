@@ -24,7 +24,7 @@
   "types": "dist/src/index.d.ts",
   "type": "module",
   "dependencies": {
-    "jsesc": "^3.0.2",
+    "jsesc": "^3.1.0",
     "lossless-json": "^4.0.1",
     "tree-sitter": "^0.21.1",
     "tree-sitter-bash": "^0.21.0",
