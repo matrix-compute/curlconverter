@@ -26,7 +26,7 @@
   "dependencies": {
     "jsesc": "^3.0.2",
     "lossless-json": "^4.0.1",
-    "tree-sitter": "^0.21.1",
+    "tree-sitter": "^0.22.1",
     "tree-sitter-bash": "^0.21.0",
     "web-tree-sitter": "^0.22.6",
     "yamljs": "^0.3.0"
