@@ -49,7 +49,7 @@
     "eslint-config-prettier": "^9.1.0",
     "glob": "^10.3.16",
     "husky": "^9.0.11",
-    "lint-staged": "^15.2.4",
+    "lint-staged": "^16.0.0",
     "prettier": "^3.2.5",
     "tape": "^5.7.5",
     "tree-sitter-cli": "^0.22.6",
